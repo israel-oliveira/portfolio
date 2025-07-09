@@ -16,7 +16,7 @@ class ProjectsData {
         'https://via.placeholder.com/400x300/F59E0B/FFFFFF?text=E-commerce+3',
       ],
       technologies: [
-        'Flutter',
+        'Flutter ',
         'Dart',
         'Firebase',
         'Stripe',
